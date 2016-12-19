@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package version="0.0.0" uuid="mainproject-0825b4">
+<package uuid="twitter-a2e3ad" version="0.0.0">
  <names>
-  <name lang="en_US">Mainproject</name>
+  <name lang="en_US">Twitter</name>
  </names>
  <supportedLanguages>
   <language>en_US</language>

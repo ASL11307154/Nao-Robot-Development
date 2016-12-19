@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="vparkschool-c2691f" version="0.0.0">
+<package version="0.0.0" uuid="mainproject-0825b4">
  <names>
-  <name lang="en_US">V park school</name>
+  <name lang="en_US">Mainproject</name>
  </names>
  <supportedLanguages>
   <language>en_US</language>
